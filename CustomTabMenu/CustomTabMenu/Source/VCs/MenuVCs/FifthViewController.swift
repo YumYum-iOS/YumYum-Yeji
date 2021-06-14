@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  FifthViewController.swift
 //  CustomTabMenu
 //
 //  Created by 윤예지 on 2021/06/15.
@@ -7,13 +7,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FifthViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
+        view.backgroundColor = .green
     }
-
-
 }
-
